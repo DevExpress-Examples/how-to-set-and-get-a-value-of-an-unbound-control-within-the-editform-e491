@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/SetEditTemplateValueInCode/Default.aspx) (VB: [Default.aspx](./VB/SetEditTemplateValueInCode/Default.aspx))
+* [Default.aspx.cs](./CS/SetEditTemplateValueInCode/Default.aspx.cs) (VB: [Default.aspx](./VB/SetEditTemplateValueInCode/Default.aspx))
+<!-- default file list end -->
 # How to set and get a value of an unbound control within the EditForm
 
 
