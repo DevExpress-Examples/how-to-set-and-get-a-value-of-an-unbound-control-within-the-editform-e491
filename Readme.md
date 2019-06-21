@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/SetEditTemplateValueInCode/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/SetEditTemplateValueInCode/Default.aspx.vb))
 <!-- default file list end -->
 # How to set and get a value of an unbound control within the EditForm
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e491/)**
+<!-- run online end -->
 
 
 <p>If you use an unbound control within the EditForm template, you may need to set its value when editing starts, and read it back when editing is done. The HtmlEditFormCreated event must be used to initialize template controls. To read new values, use the RowUpdating and RowInserting events, which are called when editing is done.</p>
